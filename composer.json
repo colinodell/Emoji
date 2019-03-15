@@ -1,5 +1,6 @@
 {
     "name": "alt-three/emoji",
+    "type": "commonmark-extension",
     "description": "An Emoji Parser For Laravel 5",
     "keywords": ["emoji", "parser", "Emoji", "Alt Three"],
     "license": "MIT",
